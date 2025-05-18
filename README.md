@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <br/>
 
 <table>
@@ -8,4 +6,3 @@
     <td><img src="https://profile-counter.glitch.me/Ballsszz/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table>
-
